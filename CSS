@@ -1,0 +1,55 @@
+*{font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#degrade_laranja{
+    background: -webkit-linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0),
+     rgb(0, 0, 0), rgb(119, 65, 4), rgb(196, 95, 0), rgb(224, 101, 0));
+}
+
+.animais_exoticos{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#araras_de_fundo{
+    width: 99%;
+    height: auto;
+    margin: 10px 5px 10px 5px;
+}
+
+#fundo_dos_textos_aves{
+    background-image: url(imagens/fundo\ de\ tela4.png);
+    padding: 8px;
+    height: 1000px;
+    background-size: 100% 100%;
+    background-attachment: scroll;
+}
+
+.texto_esquerdo{
+    font-size: 40px;
+    text-align: left;
+}
+
+.texto_direito{
+    font-size: 40px;
+    text-align: right;
+}
+
+#fundo_dos_textos_aves{
+    font-size: 23px;
+    line-height: 1.7;
+}
+
+#fotos_esquerdas {
+     width: 500px;
+     float: left;
+     margin: 6px;
+}
+
+#fotos_direitas {
+    float:right;
+    width: 500px;
+    margin: 6px;
+}
